@@ -8,7 +8,12 @@ body{color: #434455;
     font-size: 16px;
     font-family: "Roboto", sans-serif;
     line-height: 1.5;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+    background-color: #ffffff;
+}
+
+========================================================================================
+
      
         .header {}
     
@@ -20,7 +25,7 @@ body{color: #434455;
                 font-family: "Raleway", sans-serif;
                 font-weight: 700;
                 text-transform: uppercase;
-                line-height: 1.16;
+                line-height: 1.17;
                 letter-spacing: 0.03em;
         }
     .header-logo{
@@ -45,6 +50,9 @@ body{color: #434455;
     {
         color: #404BBF;
     }
+
+======================================================================================
+
         .address {
             font-style: normal;
         }
@@ -61,6 +69,9 @@ body{color: #434455;
             .address-link:focus {
             color: #404BBF;
             }
+
+========================================================================================
+
 .hero {
     background-color:#2E2F42;
 }
@@ -89,6 +100,8 @@ body{color: #434455;
     background-color:#404BBF;
 }
 
+==========================================================================
+
 .benefits {
 
 }
@@ -110,6 +123,8 @@ body{color: #434455;
 .benefits-item-text {
 
 }
+
+=========================================================================
 
 .team {
     background-color: #F4F4FD;
@@ -145,7 +160,13 @@ color: #2E2F42;
 }
 
 .team-item-text {
+
+
+
 }
+=========================================================================
+
+
 
 .portfolio-title {
     color: #2E2F42;
@@ -163,12 +184,19 @@ color: #2E2F42;
     background-color: #fff;
 }
 
-.portfolio-item-title {}
+.portfolio-item-title {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+
+}
 
 .portfolio-item-text {}
 
 
-
+===============================================================================
 
 
 .basement {
