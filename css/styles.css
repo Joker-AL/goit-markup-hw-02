@@ -147,7 +147,15 @@ color: #2E2F42;
 .team-item-text {
 }
 
-.portfolio-title {}
+.portfolio-title {
+    color: #2E2F42;
+        font-size: 36px;
+        font-weight: 700;
+        text-transform: capitalize;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
 
 .portfolio-list {}
 
